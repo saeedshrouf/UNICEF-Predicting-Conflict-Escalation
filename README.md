@@ -17,7 +17,7 @@ Within this project, we aim to complete a thorough analysis of the transformer, 
 - Hypothesis Testing
   - Within this statistical method, we make a prediction about a parameter of the population, after which we conduct testing to check whether or not this is an accurate inference and to what degree. To do this we use something called a P- Value, though beyond the fact that we calculate it and judge the accuracy of the prediction based on this table, there is no need to go into further depth on it.
 
-![](https://github.com/saeedshrouf/UNICEF-Predicting-Conflict-Escalation/tree/main/Images_CDE/Aspose.Words.ccc6ca47-4900-4b74-b098-421a6a73a5ae.001.png)
+![](https://github.com/saeedshrouf/UNICEF-Predicting-Conflict-Escalation/tree/main/Images_CDE/Aspose.Words.ccc6ca47-4900-4b74-b098-421a6a73a5ae.001.png?raw=true)
 **Library Imports and Data Loading**
 
 **Python Library Imports**
